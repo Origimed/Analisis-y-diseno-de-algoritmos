@@ -1,0 +1,1 @@
+{"name":"Local: aaaa","url":"/home/ptro/Code/un/ADA/codigos/semana1/aaaa.cpp","tests":[{"id":1756918164546,"input":"3\n2728\n100\n4879\n","output":"KAP\nNO\nKAP\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ptro/Code/un/ADA/codigos/semana1/aaaa.cpp","group":"local","local":true}

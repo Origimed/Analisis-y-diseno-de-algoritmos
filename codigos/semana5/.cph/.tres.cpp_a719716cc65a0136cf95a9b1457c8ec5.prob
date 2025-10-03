@@ -1,0 +1,1 @@
+{"name":"Local: tres","url":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana5/tres.cpp","tests":[{"id":1759455162628,"input":"2\n4\n250\n600\n750\n400\n5\n700\n400\n150\n600\n250\n","output":"2\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana5/tres.cpp","group":"local","local":true}

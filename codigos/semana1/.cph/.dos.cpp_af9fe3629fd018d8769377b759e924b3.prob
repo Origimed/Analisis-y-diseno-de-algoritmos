@@ -1,0 +1,1 @@
+{"name":"Local: dos","url":"/home/ptro/Code/un/ADA/codigos/semana1/dos.cpp","tests":[{"id":1756744348227,"input":"8\n42\n55\n0\n\n","output":"1\n2\n0\n\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ptro/Code/un/ADA/codigos/semana1/dos.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: uno","url":"/home/ptro/Code/un/ADA/codigos/semana1/uno.cpp","tests":[{"id":1756739368428,"input":"3\n8\n5\n9800\n","output":"6\nNO\n6930\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ptro/Code/un/ADA/codigos/semana1/uno.cpp","group":"local","local":true}

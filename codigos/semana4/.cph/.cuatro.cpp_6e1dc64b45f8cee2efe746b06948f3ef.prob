@@ -1,0 +1,1 @@
+{"name":"Local: cuatro","url":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana4/cuatro.cpp","tests":[{"id":1758844886493,"input":"5\n2187\n98\n125460\n69521\n10052064\n","output":"Heredero\nNo\nHeredero\nNo\nHeredero\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana4/cuatro.cpp","group":"local","local":true}

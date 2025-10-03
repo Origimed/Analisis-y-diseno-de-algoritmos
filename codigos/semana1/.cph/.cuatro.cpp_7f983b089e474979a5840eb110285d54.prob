@@ -1,0 +1,1 @@
+{"name":"Local: cuatro","url":"/home/ptro/Code/un/ADA/codigos/semana1/cuatro.cpp","tests":[{"id":1756916385988,"input":"3\n2728\n100\n4879\n","output":"KAP\nNO\nKAP"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ptro/Code/un/ADA/codigos/semana1/cuatro.cpp","group":"local","local":true}

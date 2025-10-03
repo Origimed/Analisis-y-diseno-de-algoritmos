@@ -1,0 +1,1 @@
+{"name":"Local: cinco","url":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana5/cinco.cpp","tests":[{"id":1759458340053,"input":"2\n100 5 5\n90 30 20\n3\n50 30 20\n30 20 40\n50 10 5\n0\n","output":"100\n125\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana5/cinco.cpp","group":"local","local":true}
