@@ -1,0 +1,1 @@
+{"name":"Local: tres","url":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana 6 - voraces p2/tres.cpp","tests":[{"id":1760050724991,"input":"3\n1\n2\n3\n5\n1\n2\n3\n4\n5\n0\n","output":"9\n33\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana 6 - voraces p2/tres.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: uno","url":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana 6 - voraces p2/uno.cpp","tests":[{"id":1759694366606,"input":"2\n3\n0 5\n10 5\n20 5\n4\n10 5\n0 20\n20 15\n10 10\n","output":"0\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana 6 - voraces p2/uno.cpp","group":"local","local":true}
