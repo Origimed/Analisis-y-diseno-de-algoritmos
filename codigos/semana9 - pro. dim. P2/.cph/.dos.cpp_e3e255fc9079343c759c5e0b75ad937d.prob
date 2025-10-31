@@ -1,0 +1,1 @@
+{"name":"Local: dos","url":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana9 - pro. dim. P2/dos.cpp","tests":[{"id":1761875010609,"input":"2\nabcde bcaed\nabcd dacb\n","output":"3\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana9 - pro. dim. P2/dos.cpp","group":"local","local":true}

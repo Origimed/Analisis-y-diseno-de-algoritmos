@@ -1,0 +1,1 @@
+{"name":"Local: tres","url":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana 7 - grafos/tres.py","tests":[{"id":1760633625408,"input":"2\n3 3\n0 1 1\n1 1 1\n1 1 1\n1 5\n0 1 2 3 4\n","output":"4\n10\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ptro/Code/un/semestre 6/ADA/codigos/semana 7 - grafos/tres.py","group":"local","local":true}
